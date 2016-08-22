@@ -1,7 +1,7 @@
-title: Device.css
-description: Device.css is a tool that helps you to display device on page with pure CSS for web designers
-baseurl: "/device.css"
-url: "http://famer.github.io/"
+title: Run 100 M
+description: Run 100 m application allows you to measure your time for a 100 meters run.
+baseurl: "/Run-100-m"
+url: "http://timurtatarshaov.me"
 
 # Build settings
 markdown: kramdown
