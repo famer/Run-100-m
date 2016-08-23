@@ -4,8 +4,10 @@ layout: page
 permalink: /
 appStoreLink: https://itunes.apple.com/ru/app/run-100-m/id1146311941?l=en&mt=8
 ---
-<center>
-  <a property="schema:url" content="{{ page.appStoreLink }}" href="{{ page.appStoreLink }}"><img style="width:135px" src="{{ site.baseurl }}/assets/app_store_badges/apple_app_store_us-uk_135x40.png" /></a>
+<center itemscope itemtype="http://schema.org/SoftwareApplication">
+  <h1 itemprop="name">Run 100 m</h1>
+  <img itemprop="image" src="{{ site.baseurl }}/assets/icons/icon-152x152.png" alt="Run 100 m application icon"/><br /><br />
+  <a itemprop="url" content="{{ page.appStoreLink }}" href="{{ page.appStoreLink }}"><img style="width:135px" src="{{ site.baseurl }}/assets/app_store_badges/apple_app_store_us-uk_135x40.png" /></a>
 </center>
 
 ### Support
