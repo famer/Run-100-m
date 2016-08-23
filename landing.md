@@ -2,7 +2,11 @@
 layout: page
 #title: Run 100 m
 permalink: /
+appStoreLink: https://itunes.apple.com/ru/app/run-100-m/id1146311941?l=en&mt=8
 ---
+<center>
+  <a property="schema:url" content="{{ page.appStoreLink }}" href="{{ page.appStoreLink }}"><img style="width:135px" src="{{ site.baseurl }}/assets/app_store_badges/apple_app_store_us-uk_135x40.png" /></a>
+</center>
 
 ### Support
 
