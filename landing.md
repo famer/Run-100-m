@@ -8,6 +8,7 @@ appStoreLink: https://itunes.apple.com/ru/app/run-100-m/id1146311941?l=en&mt=8
   <h1 itemprop="name">Run 100 m</h1>
   <img itemprop="image" src="{{ site.baseurl }}/assets/icons/icon-152x152.png" alt="Run 100 m application icon"/><br /><br />
   <a itemprop="url" content="{{ page.appStoreLink }}" href="{{ page.appStoreLink }}"><img style="width:135px" src="{{ site.baseurl }}/assets/app_store_badges/apple_app_store_us-uk_135x40.png" /></a>
+  <meta itemprop="description" content="Application allows you to measure your time for a 100 meters run. There is a lot of hype around running those days, especially related to long distances: marathons, half marathons and 8-12 kms. But there are different types of running. Sprint for the short distances was unfairly not getting much of attention albeit. If you like running and feel bored for a long distance run or feel it's not your thing, try 100 meters run. Unfortunately or luckily short distance runs are not that socially active, ideally you need just one another person to train with. But if you prefer to do it by yourself too it's not easy to measure your results time wise. This application will enable you to. Tactual feedback via vibration at start and finish will allow you to measure results precisely and comfortably without any external help. Start is delayed for half a second after you pressed the button, that will let you prepare yourself before start. You will feel phone vibration at proper time. Please make sure GPS signal strength is good for precise result measurement.">
 </center>
 
 ### Support
